@@ -212,7 +212,7 @@ export default function LoopPage() {
                 {[
                   "Figma",
                   "Online research",
-                  "Competitor analysis",
+                  "User flows",
                   "Prototyping",
                 ].map((t) => (
                   <span
@@ -535,6 +535,10 @@ export default function LoopPage() {
           Next I would test the flow with students on a real walk to the bin,
           and design what happens when the bin's count doesn't match the basket,
           so nobody loses points for an honest mistake.
+        </p>
+        <p className="rounded-full border-2 border-dashed border-[#1d4739]/30 bg-[#e9f1e8] px-[24px] py-[12px] font-['Plus_Jakarta_Sans:Bold'] font-bold text-[16px] text-[#1d4739] text-center">
+          This case study is still being written. I'm still testing and
+          developing Sorted, so more is on the way.
         </p>
         <div className="flex flex-col items-center w-full mt-[8px]">
           <a
