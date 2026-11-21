@@ -406,7 +406,7 @@ function Portfolio({ go }: { go: (route: Route) => void }) {
               I’m a second-year Digital Design student at Ulster University in
               Belfast, with a focus on UX. I studied Art & Design, Media Studies
               and Maths at A Level, so I like mixing the creative side with the
-              analytical side — usually that means starting on paper and ending
+              analytical side. Usually that means starting on paper and ending
               up in Figma.
             </p>
             <p>
@@ -451,7 +451,7 @@ function Portfolio({ go }: { go: (route: Route) => void }) {
             <div>
               <dt>looking for</dt>
               <dd>
-                A design placement — open to UX, digital and visual design
+                A design placement, open to UX, digital and visual design
               </dd>
             </div>
             <div>
