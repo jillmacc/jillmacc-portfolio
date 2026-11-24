@@ -34,7 +34,7 @@ const process = [
   ],
   [
     "I looked at what already exists.",
-    "Bower in Sweden already rewards recycling, Ireland's deposit scheme shows how well a small reward works, and Recyclebank shows reward schemes fail when they cost too much to run.",
+    "Plovie (formerly Bower) already rewards recycling, Ireland's deposit scheme shows how well a small reward works, and Recyclebank shows reward schemes fail when they cost too much to run.",
   ],
   [
     "My first flow made people scan at the bin.",
@@ -78,7 +78,7 @@ const reflections = [
   ],
   [
     "Be upfront about what already exists.",
-    "Finding Bower felt like a setback at first, but it showed me where Sorted could be different: proving items actually went in the bin, covering glass and paper, and focusing on students in Belfast.",
+    "Finding Plovie felt like a setback at first, but it showed me where Sorted could be different: proving items actually went in the bin, covering glass and paper, and focusing on students in Belfast.",
   ],
   [
     "Rewards have to be cheap to run.",
