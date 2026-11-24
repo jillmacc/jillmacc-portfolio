@@ -247,7 +247,7 @@ function Portfolio({ go }: { go: (route: Route) => void }) {
           <p className="eyebrow">Design work</p>
           <h2>Projects</h2>
           <p>
-            UX, branding, and interface design — click into any project to see
+            UX, branding, and interface design. Click into any project to see
             the full process.
           </p>
         </div>
@@ -546,7 +546,7 @@ const watchReflections = [
     body: "WatchPoint works best when the score is the main event and the rest of the UI stays calm and easy to read at a glance.",
   },
   {
-    title: "Yellow-green is a strong signal — use it sparingly.",
+    title: "Yellow-green is a strong signal, so use it sparingly.",
     body: "The bright accent works well for alerts, highlights, and brand moments. The navy background keeps the rest of the interface calm by contrast.",
   },
   {
@@ -589,7 +589,7 @@ function WatchPoint({ go }: { go: (route: Route) => void }) {
             <div>
               <strong>Notion case study</strong>
               <p>
-                Link coming soon — full process notes will be published here.
+                Link coming soon. Full process notes will be published here.
               </p>
             </div>
           </div>
@@ -606,7 +606,7 @@ function WatchPoint({ go }: { go: (route: Route) => void }) {
           <p>
             WatchPoint is built around a simple promise: the court watches, so
             the players can focus on the game. The interface is compact,
-            high-contrast, and easy to read at a glance — even during a
+            high-contrast, and easy to read at a glance, even during a
             fast-moving match.
           </p>
         </div>
@@ -683,7 +683,7 @@ const bookReflections = [
   },
   {
     title: "Warm cream and navy make a strong, readable foundation.",
-    body: "The palette feels premium, calm, and easy to scan — especially for a study-space app.",
+    body: "The palette feels premium, calm, and easy to scan, especially for a study-space app.",
   },
   {
     title: "The ampersand pattern adds personality without overwhelming.",
@@ -736,7 +736,7 @@ function BookBrew({ go }: { go: (route: Route) => void }) {
           </a>
         </div>
         <p>
-          Brand identity and app design — a closer look at the original work.
+          Brand identity and app design: a closer look at the original work.
         </p>
       </section>
       <section className="case-section showcase">
@@ -804,7 +804,7 @@ function BookBrew({ go }: { go: (route: Route) => void }) {
 
 const musicReflections = [
   {
-    title: "Design with purpose — not just aesthetics.",
+    title: "Design with purpose, not just aesthetics.",
     body: "The clearest moments came when every design decision connected directly back to the app’s purpose: worship through calm, immersive design.",
   },
   {
@@ -847,7 +847,7 @@ function Music({ go }: { go: (route: Route) => void }) {
             <div>
               <strong>Notion case study</strong>
               <p>
-                Link coming soon — full process notes will be published here.
+                Link coming soon. Full process notes will be published here.
               </p>
             </div>
           </div>
@@ -946,7 +946,7 @@ function Music({ go }: { go: (route: Route) => void }) {
           <p className="eyebrow">Initial research</p>
           <h2>Why a Christian music app?</h2>
           <p>
-            Music has always been a big part of my life, but so has my faith —
+            Music has always been a big part of my life, but so has my faith,
             so creating a Christian music app came naturally. I explored
             specialist platforms alongside Spotify and Apple Music to understand
             both spiritual purpose and expected music-app patterns.
@@ -1480,7 +1480,7 @@ const INSTAGRAM = "https://www.instagram.com/jillmacc06"
 // Screen reader descriptions for the case study images (decorative shapes stay silent)
 const IMAGE_ALT: Record<string, string> = {
   "9da5d.png": "WatchPoint logo",
-  "4cb2a.png": "WatchPoint on an Apple Watch showing a live 15–30 score",
+  "4cb2a.png": "WatchPoint on an Apple Watch showing a live 15-30 score",
   "a0e6d.png":
     "WatchPoint on an Apple Watch flashing Point! after a point is won",
   "e44f9.png": "WatchPoint start screen with a Start Match button",

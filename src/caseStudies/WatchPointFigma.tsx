@@ -109,7 +109,7 @@ export default function WatchPointPage() {
         <div
           className="absolute bg-[#192c4f] h-[791px] left-0 overflow-clip top-0 w-[1920px]"
           data-node-id="12:41"
-          data-name="WatchPoint Cover — original artwork"
+          data-name="WatchPoint Cover - original artwork"
         >
           <div
             className="absolute h-[651.6px] left-[-324.9px] top-[calc(60%-25.6px)] w-[1231.304px]"
@@ -138,7 +138,7 @@ export default function WatchPointPage() {
           <div
             className="absolute h-[315.9px] left-[calc(20%+82px)] top-[calc(20%+79.8px)] w-[988.316px]"
             data-node-id="12:44"
-            data-name="WatchPoint — Primary logo 1"
+            data-name="WatchPoint - Primary logo 1"
           >
             <img
               alt=""
@@ -811,7 +811,7 @@ export default function WatchPointPage() {
             time.
           </p>
           <p className="hidden" data-node-id="12:107">
-            This case study is still being written — these are honest early
+            This case study is still being written. These are honest early
             observations from the design decisions visible in the concept.
           </p>
         </div>
@@ -916,7 +916,7 @@ export default function WatchPointPage() {
                 className="font-['Plus_Jakarta_Sans:Bold'] font-bold leading-[normal] relative shrink-0 text-[16px] w-full"
                 data-node-id="12:119"
               >
-                Yellow-green is a strong signal — use it sparingly.
+                Yellow-green is a strong signal, so use it sparingly.
               </p>
               <p
                 className="font-['Stack_Sans_Text:Regular'] font-normal leading-[1.5] relative shrink-0 text-[17px] w-full"

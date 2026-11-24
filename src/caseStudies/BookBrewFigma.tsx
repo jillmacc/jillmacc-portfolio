@@ -245,7 +245,7 @@ export default function BookBrewPage() {
               data-node-id="9:1536"
             >
               <p className="leading-[26.4px]">
-                Brand identity and app design — a closer look at the original
+                Brand identity and app design: a closer look at the original
                 work.
               </p>
             </div>
@@ -781,7 +781,7 @@ export default function BookBrewPage() {
                 className="font-['Stack_Sans_Text:Regular'] font-normal leading-[1.5] relative shrink-0 text-[17px] w-full"
                 data-node-id="9:1602"
               >
-                The palette feels premium, calm, and easy to scan — especially
+                The palette feels premium, calm, and easy to scan, especially
                 for a study-space app.
               </p>
             </div>

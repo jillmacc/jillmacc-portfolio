@@ -315,7 +315,7 @@ export default function MusicApp() {
             connection of sharing music with the intimacy of personal faith. It
             lets users stream worship music, build playlists, discover what
             friends are listening to, and engage with the meaning behind the
-            songs — all in one calm, nature-inspired interface.
+            songs, all in one calm, nature-inspired interface.
           </p>
         </div>
         <div
@@ -587,8 +587,8 @@ export default function MusicApp() {
             className="font-['Jost:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#505050] text-[18px] w-[min-content]"
             data-node-id="2:1060"
           >
-            The palette is rooted in nature — deep greens, earthy blues, and
-            warm peach tones — to create an atmosphere that feels calm,
+            The palette is rooted in nature (deep greens, earthy blues, and
+            warm peach tones) to create an atmosphere that feels calm,
             personal, and alive. Every colour and type choice supports the goal
             of making music feel like a reflective, spiritual experience.
           </p>
@@ -618,7 +618,7 @@ export default function MusicApp() {
               className="[word-break:break-word] font-['Jost:Regular'] font-normal leading-[normal] relative shrink-0 text-[#2b2a3d] text-[13px] whitespace-nowrap"
               data-node-id="2:1065"
             >
-              Deep green — nav bar, key UI
+              Deep green - nav bar, key UI
             </p>
           </div>
           <div
@@ -641,7 +641,7 @@ export default function MusicApp() {
               className="[word-break:break-word] font-['Jost:Regular'] font-normal leading-[normal] relative shrink-0 text-[#2b2a3d] text-[13px] whitespace-nowrap"
               data-node-id="2:1069"
             >
-              Light blue-grey — header
+              Light blue-grey - header
             </p>
           </div>
           <div
@@ -664,7 +664,7 @@ export default function MusicApp() {
               className="[word-break:break-word] font-['Jost:Regular'] font-normal leading-[normal] relative shrink-0 text-[#2b2a3d] text-[13px] whitespace-nowrap"
               data-node-id="2:1073"
             >
-              Peach — buttons, playing bar
+              Peach - buttons, playing bar
             </p>
           </div>
           <div
@@ -687,7 +687,7 @@ export default function MusicApp() {
               className="[word-break:break-word] font-['Jost:Regular'] font-normal leading-[normal] relative shrink-0 text-[#2b2a3d] text-[13px] whitespace-nowrap"
               data-node-id="2:1077"
             >
-              Coral — likes, highlights
+              Coral - likes, highlights
             </p>
           </div>
           <div
@@ -739,25 +739,25 @@ export default function MusicApp() {
                 className="font-['Jost:SemiBold'] font-semibold relative shrink-0 text-[32px] text-white"
                 data-node-id="2:1086"
               >
-                Heading — Jost SemiBold
+                Heading - Jost SemiBold
               </p>
               <p
                 className="font-['Jost:Medium'] font-medium relative shrink-0 text-[20px] text-[rgba(255,255,255,0.8)]"
                 data-node-id="2:1087"
               >
-                Subheading — Jost Medium
+                Subheading - Jost Medium
               </p>
               <p
                 className="font-['Jost:Regular'] font-normal relative shrink-0 text-[16px] text-[rgba(255,255,255,0.67)]"
                 data-node-id="2:1088"
               >
-                Body text — Jost Regular
+                Body text - Jost Regular
               </p>
               <p
                 className="font-['Jost:Regular'] font-normal relative shrink-0 text-[13px] text-[rgba(255,255,255,0.47)]"
                 data-node-id="2:1089"
               >
-                Captions — Jost Light
+                Captions - Jost Light
               </p>
             </div>
             <p
@@ -765,7 +765,7 @@ export default function MusicApp() {
               data-node-id="2:1090"
             >
               Jost is a clean, modern sans-serif that supports readability while
-              maintaining a soft, approachable feel — perfect for a music app
+              maintaining a soft, approachable feel, perfect for a music app
               with a spiritual intention.
             </p>
           </div>
@@ -787,7 +787,7 @@ export default function MusicApp() {
               The bottom navigation bar uses the deep green (#546B47)
               background, reflecting the nature-inspired theme. Icons use a
               thin, rounded line style. The central peach waveform button
-              highlights the primary function — playing music — while inactive
+              highlights the primary function (playing music) while inactive
               icons sit in a lighter tone to maintain clear hierarchy.
             </p>
             <div
@@ -876,7 +876,7 @@ export default function MusicApp() {
               <p className="leading-[1.6] mb-0">
                 From the very beginning, I knew I wanted to design something
                 that felt meaningful and connected to who I am. Music has always
-                been a big part of my life, but so has my faith — so the idea of
+                been a big part of my life, but so has my faith, so the idea of
                 creating a Christian music app came naturally.
               </p>
               <p className="leading-[1.6] mb-0">​</p>
@@ -956,7 +956,7 @@ export default function MusicApp() {
                 users to slow down, reflect, and connect more deeply with both
                 the music and the visual environment. By combining principles of
                 art, nature, and faith, the app becomes more than just a
-                platform for listening—it becomes an experience inspired by
+                platform for listening. It becomes an experience inspired by
                 God’s creation.
               </p>
             </div>
@@ -1062,12 +1062,12 @@ export default function MusicApp() {
                 className="font-['Plus_Jakarta_Sans:Bold'] font-bold leading-[normal] relative shrink-0 text-[16px] w-full"
                 data-node-id="2:1119"
               >
-                Design with purpose — not just aesthetics.
+                Design with purpose, not just aesthetics.
               </p>
               <p
                 className="font-['Jost:Regular'] font-normal leading-[1.5] relative shrink-0 text-[17px] w-full"
                 data-node-id="2:1120"
-              >{`The clearest moments in this project came when I connected a design decision directly back to the app's purpose. When the palette, typography, and layout all served the same idea — worship through calm, immersive design — everything clicked.`}</p>
+              >{`The clearest moments in this project came when I connected a design decision directly back to the app's purpose. When the palette, typography, and layout all served the same idea (worship through calm, immersive design), everything clicked.`}</p>
             </div>
           </div>
           <div
@@ -1101,7 +1101,7 @@ export default function MusicApp() {
               <p
                 className="font-['Jost:Regular'] font-normal leading-[1.5] relative shrink-0 text-[17px] w-full"
                 data-node-id="2:1126"
-              >{`Most music apps focus on solo listening. Adding a friends feed — where people can share what they're listening to and why — brought a community dimension that felt genuinely unique to the Christian music space.`}</p>
+              >{`Most music apps focus on solo listening. Adding a friends feed, where people can share what they're listening to and why, brought a community dimension that felt genuinely unique to the Christian music space.`}</p>
             </div>
           </div>
           <div
@@ -1138,7 +1138,7 @@ export default function MusicApp() {
               >
                 Using the blurred landscape artwork as the app background was a
                 simple idea, but it transformed the atmosphere. It made the UI
-                feel grounded in something real — nature, space, light — rather
+                feel grounded in something real (nature, space, light) rather
                 than flat or purely digital.
               </p>
             </div>
