@@ -732,7 +732,10 @@ export default function WatchPointPage() {
           </div>
           <div className="wp-mockup w-full rounded-[32px] overflow-hidden shadow-[0_30px_80px_rgba(25,44,79,0.35)]">
             <img
-              src="/wp-iphone-mockup.jpg"
+              src="/wp-iphone-mockup.jpg?v=2"
+              width={1920}
+              height={1080}
+              decoding="async"
               alt="Three iPhones showing the WatchPoint app: the home screen with the last match card, your stats with win rate and recent matches, and a match detail page with a set-by-set score and a chart of how the game went."
               className="block w-full h-auto"
             />
