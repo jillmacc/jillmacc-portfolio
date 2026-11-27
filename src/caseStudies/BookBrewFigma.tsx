@@ -22,7 +22,7 @@ const imgLink = `${assetPathPrefix}/50460.svg`
 export default function BookBrewPage() {
   return (
     <div
-      className="bg-[#faf7f2] relative h-[8162px] w-[1920px]"
+      className="bg-[#faf7f2] relative h-[8202px] w-[1920px]"
       data-node-id="9:1332"
       data-name="Book&Brew page"
     >
@@ -71,7 +71,7 @@ export default function BookBrewPage() {
       </div>
       <div className="contents">
         <div
-          className="absolute left-0 right-0 top-[508px] h-[526px] bg-[#faf7f2] px-[93px] py-[51px] flex flex-col gap-[10px]"
+          className="absolute left-0 right-0 top-[508px] h-[566px] bg-[#faf7f2] px-[93px] py-[51px] flex flex-col gap-[10px]"
           data-name="Project at a glance"
         >
           <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
@@ -98,50 +98,19 @@ export default function BookBrewPage() {
                 it into a cohesive visual experience through research, concept
                 development and digital design.
               </p>
-              <div className="mt-[4px] pt-[12px] border-t border-[#e7ded4] flex flex-col gap-[4px]" data-name="Why I started">
-                <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[11px] tracking-[0.8px] uppercase text-[#8a8490]">
-                  Why I started
-                </p>
-                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] leading-[1.45] text-[#272f49] opacity-80">
-                  My survey showed people mainly use libraries as a place to study and spend time, so I designed around that.
-                </p>
-              </div>
             </div>
             <div className="rounded-[20px] border border-[#e7ded4] bg-[#ffffff] p-[24px] flex flex-col gap-[10px]">
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
                 Project duration
               </p>
-              <div className="flex-1 flex flex-col justify-between gap-[16px]">
-                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[17px] leading-[1.35] text-[#272f49]">
-                  A university design project completed over{" "}
-                  <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[40px] leading-[1.1] tracking-[-0.5px] text-[#272f49]">
-                    12 weeks
-                  </span>
-                </p>
-                <div className="relative grid grid-cols-4" data-name="Timeline">
-                  <span className="absolute left-[12.5%] right-[12.5%] top-[5px] h-[2px] bg-[#7e000c] opacity-25" />
-                  <div className="relative flex flex-col items-center gap-[8px]">
-                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
-                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Research</span>
-                  </div>
-                  <div className="relative flex flex-col items-center gap-[8px]">
-                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
-                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Ideas</span>
-                  </div>
-                  <div className="relative flex flex-col items-center gap-[8px]">
-                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
-                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Design</span>
-                  </div>
-                  <div className="relative flex flex-col items-center gap-[8px]">
-                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
-                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Prototype</span>
-                  </div>
-                </div>
-                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[15px] leading-[1.45] text-[#272f49] opacity-80">
-                  From initial research and idea development through to
-                  interface design, prototyping and final refinements.
-                </p>
-              </div>
+              <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[17px] leading-[1.35] text-[#272f49]">
+                A university design project completed over{" "}
+                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[30px] text-[#272f49]">
+                  12 weeks,
+                </span>
+                taking the project from initial research and idea development
+                through to interface design, prototyping and final refinements.
+              </p>
             </div>
             <div className="rounded-[20px] border border-[#e7ded4] bg-[#ffffff] p-[24px] flex flex-col gap-[10px]">
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
@@ -150,27 +119,35 @@ export default function BookBrewPage() {
               <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] text-[#8a8490]">
                 The tools and methods behind the outcome
               </p>
-              <div className="flex-1 grid grid-cols-2 auto-rows-fr gap-[12px] mt-[6px]">
-                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
+              <div className="grid grid-cols-2 gap-[12px] mt-[6px]">
+                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
                   Figma
                 </span>
-                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
+                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
                   Research
                 </span>
-                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
+                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
                   Competitor Analysis
                 </span>
-                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
+                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
                   Student surveys
                 </span>
               </div>
             </div>
           </div>
+          <div className="mt-[28px] max-w-[820px] border-l-[2px] border-[#7e000c] pl-[18px] flex flex-col gap-[6px]" data-name="Why I started">
+            <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[11px] tracking-[0.8px] uppercase text-[#8a8490]">
+              Why I started
+            </p>
+            <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[16px] leading-[1.5] text-[#272f49]">
+              My survey showed people mainly use libraries as a place to study and spend time, so I designed around that.
+            </p>
+          </div>
         </div>
       </div>
       <div className="contents">
         <section
-          className="absolute left-0 right-0 top-[1064px] h-[760px] z-[2] bg-[#7e000c] px-[96px] py-[110px] flex flex-col gap-[56px]"
+          className="absolute left-0 right-0 top-[1104px] h-[760px] z-[2] bg-[#7e000c] px-[96px] py-[110px] flex flex-col gap-[56px]"
           data-name="Process"
         >
           <div className="flex items-end justify-between w-full">
@@ -226,7 +203,7 @@ export default function BookBrewPage() {
         </section>
       </div>
       <div
-        className="absolute bg-[#faf7f2] h-[3242px] left-0 right-0 top-[1824px]"
+        className="absolute bg-[#faf7f2] h-[3242px] left-0 right-0 top-[1864px]"
         data-node-id="9:1528"
         data-name="Section - DESIGN WORK"
       >
@@ -633,7 +610,7 @@ export default function BookBrewPage() {
         </div>
       </div>
       <div
-        className="[word-break:break-word] absolute font-bold h-[98px] left-[96px] top-[5136px] w-[760px]"
+        className="[word-break:break-word] absolute font-bold h-[98px] left-[96px] top-[5176px] w-[760px]"
         data-node-id="9:1582"
         data-name="Moodboard header"
       >
@@ -648,7 +625,7 @@ export default function BookBrewPage() {
           data-node-id="9:1584"
         >{`The Book & Brew landing page.`}</p>
       </div>
-      <div className="absolute left-[324px] top-[5304px] w-[1272px] h-[822px] rounded-[18px] overflow-hidden bg-white border border-[#e4e0d8] shadow-[0_24px_60px_rgba(43,42,61,0.18)] flex flex-col z-[2]">
+      <div className="absolute left-[324px] top-[5344px] w-[1272px] h-[822px] rounded-[18px] overflow-hidden bg-white border border-[#e4e0d8] shadow-[0_24px_60px_rgba(43,42,61,0.18)] flex flex-col z-[2]">
         <div className="flex items-center gap-[20px] bg-[#f1ede6] px-[20px] py-[14px] shrink-0">
           <div className="flex gap-[8px]">
             <span className="block size-[13px] rounded-full bg-[#ff5f57]" />
@@ -668,7 +645,7 @@ export default function BookBrewPage() {
           />
         </div>
       </div>
-      <p className="absolute left-0 right-0 top-[6150px] text-center font-['Plus_Jakarta_Sans:Bold'] font-bold text-[14px] text-[#7e000c] z-[2]">
+      <p className="absolute left-0 right-0 top-[6190px] text-center font-['Plus_Jakarta_Sans:Bold'] font-bold text-[14px] text-[#7e000c] z-[2]">
         ↕ Scroll inside the window to explore the full landing page
       </p>
       <div className="hidden" data-node-id="9:1585" data-name="landing 1">
@@ -679,7 +656,7 @@ export default function BookBrewPage() {
         />
       </div>
       <div
-        className="absolute content-stretch flex flex-col gap-[48px] items-center justify-center left-[2px] px-[96px] py-[80px] right-[-2px] top-[6246px]"
+        className="absolute content-stretch flex flex-col gap-[48px] items-center justify-center left-[2px] px-[96px] py-[80px] right-[-2px] top-[6286px]"
         data-node-id="9:1586"
         style={{
           backgroundImage:
@@ -926,7 +903,7 @@ export default function BookBrewPage() {
         </div>
         <p className="hidden"></p>
       </div>
-      <div className="next-case-slot absolute left-0 right-0 top-[7644px] h-[320px] flex">
+      <div className="next-case-slot absolute left-0 right-0 top-[7684px] h-[320px] flex">
         <a
           className="next-case"
           href="#/loop"
@@ -954,7 +931,7 @@ export default function BookBrewPage() {
         </a>
       </div>
       <div
-        className="absolute bg-[#2b2a3d] border-solid border-t border-white h-[198px] left-0 right-0 top-[7964px]"
+        className="absolute bg-[#2b2a3d] border-solid border-t border-white h-[198px] left-0 right-0 top-[8004px]"
         data-node-id="9:1610"
         data-name="Footer"
       >
