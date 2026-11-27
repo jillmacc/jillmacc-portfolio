@@ -111,14 +111,37 @@ export default function BookBrewPage() {
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
                 Project duration
               </p>
-              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-between gap-[10px] text-[17px] leading-[1.35] text-[#272f49]">
-                A university design project completed over{" "}
-                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[40px] leading-[1.1] tracking-[-0.5px] text-[#272f49]">
-                  12 weeks,
-                </span>
-                taking the project from initial research and idea development
-                through to interface design, prototyping and final refinements.
-              </p>
+              <div className="flex-1 flex flex-col justify-between gap-[16px]">
+                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[17px] leading-[1.35] text-[#272f49]">
+                  A university design project completed over{" "}
+                  <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[40px] leading-[1.1] tracking-[-0.5px] text-[#272f49]">
+                    12 weeks
+                  </span>
+                </p>
+                <div className="relative grid grid-cols-4" data-name="Timeline">
+                  <span className="absolute left-[12.5%] right-[12.5%] top-[5px] h-[2px] bg-[#7e000c] opacity-25" />
+                  <div className="relative flex flex-col items-center gap-[8px]">
+                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
+                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Research</span>
+                  </div>
+                  <div className="relative flex flex-col items-center gap-[8px]">
+                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
+                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Ideas</span>
+                  </div>
+                  <div className="relative flex flex-col items-center gap-[8px]">
+                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
+                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Design</span>
+                  </div>
+                  <div className="relative flex flex-col items-center gap-[8px]">
+                    <span className="w-[12px] h-[12px] rounded-full bg-[#7e000c] ring-[4px] ring-white" />
+                    <span className="font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[12px] text-[#272f49]">Prototype</span>
+                  </div>
+                </div>
+                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[15px] leading-[1.45] text-[#272f49] opacity-80">
+                  From initial research and idea development through to
+                  interface design, prototyping and final refinements.
+                </p>
+              </div>
             </div>
             <div className="rounded-[20px] border border-[#e7ded4] bg-[#ffffff] p-[24px] flex flex-col gap-[10px]">
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
