@@ -1500,7 +1500,7 @@ html {
 /* ---------- Case studies: sticky nav + first section stays put while the page scrolls over it ---------- */
 .figma-prototype { overflow: clip; }
 .figma-prototype [data-node-id='9:1332'] > * { z-index: 1; }
-.figma-prototype [data-node-id='9:1332']::after { content: ''; position: absolute; left: 0; right: 0; top: 1074px; bottom: 0; z-index: 0; background: #faf7f2; }
+.figma-prototype [data-node-id='9:1332']::after { content: ''; position: absolute; left: 0; right: 0; top: 1054px; bottom: 0; z-index: 0; background: #faf7f2; }
 .figma-prototype [data-name='Project at a glance'] { z-index: 1; }
 .figma-prototype [data-node-id='12:36'], .figma-prototype [data-node-id='9:1333'], .figma-prototype [data-node-id='2:924'] { position: sticky; top: 0; z-index: 50; background: rgba(255, 252, 246, 0.9); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); box-shadow: 0 1px 0 rgba(43, 42, 61, 0.08); }
 .figma-prototype [data-node-id='12:40'], .figma-prototype [data-node-id='2:928'] { position: sticky; top: 109px; z-index: 0; }
@@ -1645,7 +1645,7 @@ aside[aria-label$="freelance project"] .case-study-button {
   .figma-prototype [data-node-id='12:35'], .figma-prototype [data-node-id='2:923'], .figma-prototype [data-node-id='9:1332'] { display: flex; flex-direction: column; align-items: stretch; width: 100% !important; height: auto !important; }
   .figma-prototype [data-node-id='9:1332']::after { display: none; }
   .figma-prototype [data-node-id='9:1332'] > :not([data-node-id='9:1333']):not([data-node-id='9:1337']), .figma-prototype [data-node-id='9:1332'] > .contents > * { position: relative !important; top: auto !important; left: auto !important; right: auto !important; height: auto !important; z-index: 1; }
-  .figma-prototype [data-node-id='9:1332'] > [class*='top-[5344px]'] { position: relative !important; }
+  .figma-prototype [data-node-id='9:1332'] > [class*='top-[5324px]'] { position: relative !important; }
   .figma-prototype [class*='whitespace-nowrap'] { white-space: normal; }
 
   /* nav */
@@ -1752,8 +1752,8 @@ aside[aria-label$="freelance project"] .case-study-button {
   .figma-prototype [data-node-id='9:1582'] { width: auto !important; padding: 32px var(--pad) 20px; background: #faf7f2; }
   .figma-prototype [data-node-id='9:1582'] > p { position: static !important; }
   .figma-prototype [data-node-id='9:1582'] > p + p { margin-top: 10px; }
-  .figma-prototype [data-node-id='9:1332'] > [class*='top-[5344px]'] { width: auto !important; height: min(72vh, 640px) !important; margin: 0 var(--pad); }
-  .figma-prototype [data-node-id='9:1332'] > [class*='top-[6190px]'] { padding: 14px var(--pad) 40px; background: #faf7f2; }
+  .figma-prototype [data-node-id='9:1332'] > [class*='top-[5324px]'] { width: auto !important; height: min(72vh, 640px) !important; margin: 0 var(--pad); }
+  .figma-prototype [data-node-id='9:1332'] > [class*='top-[6170px]'] { padding: 14px var(--pad) 40px; background: #faf7f2; }
 
   /* reflections */
   .figma-prototype [data-name='Reflections'], .figma-prototype [data-name='Section - REFLECTIONS'] { padding: 64px var(--pad) !important; gap: 32px !important; }
@@ -1909,10 +1909,10 @@ aside[aria-label$="freelance project"] .case-study-button {
 
 /* ---------- Book & Brew landing page: small scrollable browser window on every screen size (keep this) ---------- */
 @media (max-width: 1599px) {
-  .figma-prototype.figma-prototype [data-node-id='9:1332'] > div[class*='top-[5344px]'] { width: min(960px, calc(100% - 2 * var(--pad))) !important; height: min(70vh, 600px) !important; margin: 0 auto !important; }
+  .figma-prototype.figma-prototype [data-node-id='9:1332'] > div[class*='top-[5324px]'] { width: min(960px, calc(100% - 2 * var(--pad))) !important; height: min(70vh, 600px) !important; margin: 0 auto !important; }
 }
 @media (max-width: 640px) {
-  .figma-prototype.figma-prototype [data-node-id='9:1332'] > div[class*='top-[5344px]'] { height: min(64vh, 520px) !important; }
+  .figma-prototype.figma-prototype [data-node-id='9:1332'] > div[class*='top-[5324px]'] { height: min(64vh, 520px) !important; }
 }
 
 /* ---------- WatchPoint: iPhone mockup + watch/phone prototypes ---------- */

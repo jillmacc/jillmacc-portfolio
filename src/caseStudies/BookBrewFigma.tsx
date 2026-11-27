@@ -22,7 +22,7 @@ const imgLink = `${assetPathPrefix}/50460.svg`
 export default function BookBrewPage() {
   return (
     <div
-      className="bg-[#faf7f2] relative h-[8202px] w-[1920px]"
+      className="bg-[#faf7f2] relative h-[8182px] w-[1920px]"
       data-node-id="9:1332"
       data-name="Book&Brew page"
     >
@@ -71,7 +71,7 @@ export default function BookBrewPage() {
       </div>
       <div className="contents">
         <div
-          className="absolute left-0 right-0 top-[508px] h-[566px] bg-[#faf7f2] px-[93px] py-[51px] flex flex-col gap-[10px]"
+          className="absolute left-0 right-0 top-[508px] h-[546px] bg-[#faf7f2] px-[93px] py-[51px] flex flex-col gap-[10px]"
           data-name="Project at a glance"
         >
           <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
@@ -147,7 +147,7 @@ export default function BookBrewPage() {
       </div>
       <div className="contents">
         <section
-          className="absolute left-0 right-0 top-[1104px] h-[760px] z-[2] bg-[#7e000c] px-[96px] py-[110px] flex flex-col gap-[56px]"
+          className="absolute left-0 right-0 top-[1084px] h-[760px] z-[2] bg-[#7e000c] px-[96px] py-[110px] flex flex-col gap-[56px]"
           data-name="Process"
         >
           <div className="flex items-end justify-between w-full">
@@ -203,7 +203,7 @@ export default function BookBrewPage() {
         </section>
       </div>
       <div
-        className="absolute bg-[#faf7f2] h-[3242px] left-0 right-0 top-[1864px]"
+        className="absolute bg-[#faf7f2] h-[3242px] left-0 right-0 top-[1844px]"
         data-node-id="9:1528"
         data-name="Section - DESIGN WORK"
       >
@@ -610,7 +610,7 @@ export default function BookBrewPage() {
         </div>
       </div>
       <div
-        className="[word-break:break-word] absolute font-bold h-[98px] left-[96px] top-[5176px] w-[760px]"
+        className="[word-break:break-word] absolute font-bold h-[98px] left-[96px] top-[5156px] w-[760px]"
         data-node-id="9:1582"
         data-name="Moodboard header"
       >
@@ -625,7 +625,7 @@ export default function BookBrewPage() {
           data-node-id="9:1584"
         >{`The Book & Brew landing page.`}</p>
       </div>
-      <div className="absolute left-[324px] top-[5344px] w-[1272px] h-[822px] rounded-[18px] overflow-hidden bg-white border border-[#e4e0d8] shadow-[0_24px_60px_rgba(43,42,61,0.18)] flex flex-col z-[2]">
+      <div className="absolute left-[324px] top-[5324px] w-[1272px] h-[822px] rounded-[18px] overflow-hidden bg-white border border-[#e4e0d8] shadow-[0_24px_60px_rgba(43,42,61,0.18)] flex flex-col z-[2]">
         <div className="flex items-center gap-[20px] bg-[#f1ede6] px-[20px] py-[14px] shrink-0">
           <div className="flex gap-[8px]">
             <span className="block size-[13px] rounded-full bg-[#ff5f57]" />
@@ -645,7 +645,7 @@ export default function BookBrewPage() {
           />
         </div>
       </div>
-      <p className="absolute left-0 right-0 top-[6190px] text-center font-['Plus_Jakarta_Sans:Bold'] font-bold text-[14px] text-[#7e000c] z-[2]">
+      <p className="absolute left-0 right-0 top-[6170px] text-center font-['Plus_Jakarta_Sans:Bold'] font-bold text-[14px] text-[#7e000c] z-[2]">
         ↕ Scroll inside the window to explore the full landing page
       </p>
       <div className="hidden" data-node-id="9:1585" data-name="landing 1">
@@ -656,7 +656,7 @@ export default function BookBrewPage() {
         />
       </div>
       <div
-        className="absolute content-stretch flex flex-col gap-[48px] items-center justify-center left-[2px] px-[96px] py-[80px] right-[-2px] top-[6286px]"
+        className="absolute content-stretch flex flex-col gap-[48px] items-center justify-center left-[2px] px-[96px] py-[80px] right-[-2px] top-[6266px]"
         data-node-id="9:1586"
         style={{
           backgroundImage:
@@ -903,7 +903,7 @@ export default function BookBrewPage() {
         </div>
         <p className="hidden"></p>
       </div>
-      <div className="next-case-slot absolute left-0 right-0 top-[7684px] h-[320px] flex">
+      <div className="next-case-slot absolute left-0 right-0 top-[7664px] h-[320px] flex">
         <a
           className="next-case"
           href="#/loop"
@@ -931,7 +931,7 @@ export default function BookBrewPage() {
         </a>
       </div>
       <div
-        className="absolute bg-[#2b2a3d] border-solid border-t border-white h-[198px] left-0 right-0 top-[8004px]"
+        className="absolute bg-[#2b2a3d] border-solid border-t border-white h-[198px] left-0 right-0 top-[7984px]"
         data-node-id="9:1610"
         data-name="Footer"
       >
