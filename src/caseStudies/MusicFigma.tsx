@@ -261,7 +261,7 @@ export default function MusicApp() {
               </p>
               <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-between gap-[10px] text-[17px] leading-[1.35] text-[#3b4e38]">
                 A university design project completed over{" "}
-                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[56px] leading-[1.05] tracking-[-1px] text-[#3b4e38]">
+                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[40px] leading-[1.1] tracking-[-0.5px] text-[#3b4e38]">
                   12 weeks,
                 </span>
                 taking the project from initial research and idea development
