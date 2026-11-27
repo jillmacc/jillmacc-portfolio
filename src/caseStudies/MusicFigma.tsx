@@ -246,6 +246,14 @@ export default function MusicApp() {
                 turned it into high-fidelity iOS screens and an interactive
                 prototype in Figma.
               </p>
+              <div className="mt-[4px] pt-[12px] border-t border-[#dfe9f1] flex flex-col gap-[4px]" data-name="Why I started">
+                <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[11px] tracking-[0.8px] uppercase text-[#7b8576]">
+                  Why I started
+                </p>
+                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] leading-[1.45] text-[#3b4e38] opacity-80">
+                  I wanted one space just for worship, with the songs, the verses behind them and notes from the artists all in one place, away from everything else on my phone.
+                </p>
+              </div>
             </div>
             <div className="rounded-[20px] border border-[#dfe9f1] bg-[#ffffff] p-[24px] flex flex-col gap-[10px]">
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#ffad72]">

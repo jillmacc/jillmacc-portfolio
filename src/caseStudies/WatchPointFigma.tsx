@@ -177,6 +177,14 @@ export default function WatchPointPage() {
                 usability, interaction and how users navigate and access
                 information on a smartwatch.
               </p>
+              <div className="mt-[4px] pt-[12px] border-t border-[#456080] flex flex-col gap-[4px]" data-name="Why I started">
+                <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[11px] tracking-[0.8px] uppercase text-[#aab7c9]">
+                  Why I started
+                </p>
+                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] leading-[1.45] text-[#ffffff] opacity-80">
+                  I&apos;ve been playing a lot of padel and kept losing track of the score mid-game, and the stats afterwards only told me how much I&apos;d moved, not how I actually played.
+                </p>
+              </div>
             </div>
             <div className="rounded-[20px] border border-[#456080] bg-[#243b63] p-[24px] flex flex-col gap-[10px]">
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#b8d94a]">

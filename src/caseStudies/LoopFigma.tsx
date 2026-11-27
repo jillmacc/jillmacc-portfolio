@@ -188,6 +188,14 @@ export default function LoopPage() {
                 responds to one of the UN Sustainable Development Goals, taking
                 it from research through to a working prototype.
               </p>
+              <div className="mt-[4px] pt-[12px] border-t border-[#dfe6df] flex flex-col gap-[4px]" data-name="Why I started">
+                <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[11px] tracking-[0.8px] uppercase text-[#625c6b]">
+                  Why I started
+                </p>
+                <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] leading-[1.45] text-[#17362d] opacity-80">
+                  I kept seeing the same recycling confusion in my own student house, so I wanted to fix it for people like me.
+                </p>
+              </div>
             </div>
             <div className="rounded-[20px] border border-[#dfe6df] bg-white p-[24px] flex flex-col gap-[10px]">
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#1d4739]">
