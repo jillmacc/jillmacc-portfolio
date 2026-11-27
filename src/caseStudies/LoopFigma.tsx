@@ -201,8 +201,8 @@ export default function LoopPage() {
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#1d4739]">
                 Focus
               </p>
-              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-center text-[17px] leading-[1.35] text-[#17362d]">
-                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[30px] text-[#1d4739]">
+              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-between gap-[10px] text-[17px] leading-[1.35] text-[#17362d]">
+                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[56px] leading-[1.05] tracking-[-1px] text-[#1d4739]">
                   SDG 12,
                 </span>
                 Responsible Consumption and Production, aimed at university
@@ -216,7 +216,7 @@ export default function LoopPage() {
               <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] text-[#625c6b]">
                 The tools and methods behind the outcome
               </p>
-              <div className="flex-1 content-center grid grid-cols-2 gap-[12px] mt-[6px]">
+              <div className="flex-1 grid grid-cols-2 auto-rows-fr gap-[12px] mt-[6px]">
                 {[
                   "Figma",
                   "Online research",
@@ -225,7 +225,7 @@ export default function LoopPage() {
                 ].map((t) => (
                   <span
                     key={t}
-                    className="rounded-[10px] border border-[#bfd5aa] bg-[#e9f1e8] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#17362d]"
+                    className="rounded-[12px] border border-[#bfd5aa] bg-[#e9f1e8] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#17362d]"
                   >
                     {t}
                   </span>

@@ -190,9 +190,9 @@ export default function WatchPointPage() {
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#b8d94a]">
                 Project duration
               </p>
-              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-center text-[17px] leading-[1.35] text-[#ffffff]">
+              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-between gap-[10px] text-[17px] leading-[1.35] text-[#ffffff]">
                 A university design project completed over{" "}
-                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[30px] text-[#e6ff55]">
+                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[56px] leading-[1.05] tracking-[-1px] text-[#e6ff55]">
                   2 weeks,
                 </span>
                 taking the project from initial research and idea development
@@ -206,17 +206,17 @@ export default function WatchPointPage() {
               <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] text-[#aab7c9]">
                 The tools and methods behind the outcome
               </p>
-              <div className="flex-1 content-center grid grid-cols-2 gap-[12px] mt-[6px]">
-                <span className="rounded-[10px] border border-[#60748e] bg-[#192c4f] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#ffffff]">
+              <div className="flex-1 grid grid-cols-2 auto-rows-fr gap-[12px] mt-[6px]">
+                <span className="rounded-[12px] border border-[#60748e] bg-[#192c4f] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#ffffff]">
                   Figma
                 </span>
-                <span className="rounded-[10px] border border-[#60748e] bg-[#192c4f] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#ffffff]">
+                <span className="rounded-[12px] border border-[#60748e] bg-[#192c4f] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#ffffff]">
                   In person research
                 </span>
-                <span className="rounded-[10px] border border-[#60748e] bg-[#192c4f] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#ffffff]">
+                <span className="rounded-[12px] border border-[#60748e] bg-[#192c4f] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#ffffff]">
                   PadelCounter review
                 </span>
-                <span className="rounded-[10px] border border-[#60748e] bg-[#192c4f] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#ffffff]">
+                <span className="rounded-[12px] border border-[#60748e] bg-[#192c4f] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#ffffff]">
                   Player interviews
                 </span>
               </div>

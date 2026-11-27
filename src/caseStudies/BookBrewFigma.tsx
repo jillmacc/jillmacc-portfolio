@@ -111,9 +111,9 @@ export default function BookBrewPage() {
               <p className="font-['Plus_Jakarta_Sans:Bold'] font-bold text-[12px] tracking-[0.8px] uppercase text-[#7e000c]">
                 Project duration
               </p>
-              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-center text-[17px] leading-[1.35] text-[#272f49]">
+              <p className="font-['Stack_Sans_Text:Regular'] font-normal flex-1 flex flex-col justify-between gap-[10px] text-[17px] leading-[1.35] text-[#272f49]">
                 A university design project completed over{" "}
-                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[30px] text-[#272f49]">
+                <span className="block font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[56px] leading-[1.05] tracking-[-1px] text-[#272f49]">
                   12 weeks,
                 </span>
                 taking the project from initial research and idea development
@@ -127,17 +127,17 @@ export default function BookBrewPage() {
               <p className="font-['Stack_Sans_Text:Regular'] font-normal text-[13px] text-[#8a8490]">
                 The tools and methods behind the outcome
               </p>
-              <div className="flex-1 content-center grid grid-cols-2 gap-[12px] mt-[6px]">
-                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
+              <div className="flex-1 grid grid-cols-2 auto-rows-fr gap-[12px] mt-[6px]">
+                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
                   Figma
                 </span>
-                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
+                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
                   Research
                 </span>
-                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
+                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
                   Competitor Analysis
                 </span>
-                <span className="rounded-[10px] border border-[#e8d7b9] bg-[#f6e3b6] px-[16px] py-[11px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[15px] text-[#272f49]">
+                <span className="rounded-[12px] border border-[#e8d7b9] bg-[#f6e3b6] flex items-center px-[18px] py-[14px] font-['Plus_Jakarta_Sans:SemiBold'] font-semibold text-[17px] leading-[1.25] text-[#272f49]">
                   Student surveys
                 </span>
               </div>
